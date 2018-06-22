@@ -1,0 +1,46 @@
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+header {
+	/* Layout declrations */
+	padding: 96px 0;
+	/* Appearance declrations */
+	background-image: url(https://www.samuelsongallery.com/wp-content/uploads/2017/02/StarryStarryNight.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-top: solid 16px #423f4f;
+}
+
+h1.greeting {
+  /* Layout declarations */
+  text-align: center;
+  /* Appearance declarations */
+  color: white;
+	font-family: "Open Sans", "Helvetica Neue", sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 96px;
+	letter-spacing: 0px;
+	text-shadow: 0px 0px 8px #423f4f;
+}
+.about{
+  background-color: gray;
+}
+
+body {
+   background-image: url('https://centersinaianimalhospital.com/wp-content/uploads/2015/05/kittens.jpg');
+   background-color: #cccccc;
+}
+
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+footer {
+background-color: #FF69B4;
+text-align: center;  
+}
